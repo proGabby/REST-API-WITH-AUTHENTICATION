@@ -1,6 +1,6 @@
 ## REST-API WITH AUTHENTICATION
 
-# Buit with GO & GIN and Mongodb
+# Build with GO & GIN and Mongodb
 
 # Features
 1. User signup
